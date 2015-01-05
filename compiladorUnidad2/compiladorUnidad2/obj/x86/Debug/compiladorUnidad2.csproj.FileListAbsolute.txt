@@ -1,0 +1,24 @@
+c:\users\chema\documents\visual studio 2010\Projects\compiladorUnidad2\compiladorUnidad2\bin\Debug\compiladorUnidad2.exe
+c:\users\chema\documents\visual studio 2010\Projects\compiladorUnidad2\compiladorUnidad2\bin\Debug\compiladorUnidad2.pdb
+c:\users\chema\documents\visual studio 2010\Projects\compiladorUnidad2\compiladorUnidad2\obj\x86\Debug\compiladorUnidad2.RiegoExpress.resources
+c:\users\chema\documents\visual studio 2010\Projects\compiladorUnidad2\compiladorUnidad2\obj\x86\Debug\compiladorUnidad2.Properties.Resources.resources
+c:\users\chema\documents\visual studio 2010\Projects\compiladorUnidad2\compiladorUnidad2\obj\x86\Debug\compiladorUnidad2.csproj.GenerateResource.Cache
+c:\users\chema\documents\visual studio 2010\Projects\compiladorUnidad2\compiladorUnidad2\obj\x86\Debug\compiladorUnidad2.exe
+c:\users\chema\documents\visual studio 2010\Projects\compiladorUnidad2\compiladorUnidad2\obj\x86\Debug\compiladorUnidad2.pdb
+C:\Users\chema\Documents\Visual Studio 2010\Projects\compiladorUnidad2\compiladorUnidad2\obj\x86\Debug\compiladorUnidad2.csprojResolveAssemblyReference.cache
+G:\compiladorUnidad2\compiladorUnidad2\obj\x86\Debug\compiladorUnidad2.exe
+G:\compiladorUnidad2\compiladorUnidad2\obj\x86\Debug\compiladorUnidad2.pdb
+G:\compiladorUnidad2\compiladorUnidad2\bin\Debug\compiladorUnidad2.exe
+G:\compiladorUnidad2\compiladorUnidad2\bin\Debug\compiladorUnidad2.pdb
+G:\compiladorUnidad2\compiladorUnidad2\obj\x86\Debug\compiladorUnidad2.csprojResolveAssemblyReference.cache
+G:\compiladorUnidad2\compiladorUnidad2\obj\x86\Debug\compiladorUnidad2.RiegoExpress.resources
+G:\compiladorUnidad2\compiladorUnidad2\obj\x86\Debug\compiladorUnidad2.Properties.Resources.resources
+G:\compiladorUnidad2\compiladorUnidad2\obj\x86\Debug\compiladorUnidad2.csproj.GenerateResource.Cache
+C:\Users\Chema\Desktop\compiladorUnidad2\compiladorUnidad2\obj\x86\Debug\compiladorUnidad2.exe
+C:\Users\Chema\Desktop\compiladorUnidad2\compiladorUnidad2\obj\x86\Debug\compiladorUnidad2.csprojResolveAssemblyReference.cache
+C:\Users\Chema\Desktop\compiladorUnidad2\compiladorUnidad2\obj\x86\Debug\compiladorUnidad2.RiegoExpress.resources
+C:\Users\Chema\Desktop\compiladorUnidad2\compiladorUnidad2\obj\x86\Debug\compiladorUnidad2.Properties.Resources.resources
+C:\Users\Chema\Desktop\compiladorUnidad2\compiladorUnidad2\obj\x86\Debug\compiladorUnidad2.csproj.GenerateResource.Cache
+C:\Users\Chema\Desktop\compiladorUnidad2\compiladorUnidad2\bin\Debug\compiladorUnidad2.exe
+C:\Users\Chema\Desktop\compiladorUnidad2\compiladorUnidad2\bin\Debug\compiladorUnidad2.pdb
+C:\Users\Chema\Desktop\compiladorUnidad2\compiladorUnidad2\obj\x86\Debug\compiladorUnidad2.pdb
